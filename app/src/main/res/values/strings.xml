@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyMusic</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="filenames">
+        <item>witcher.mp3</item>
+        <item>skyrim.mp3</item>
+        <item>deathnote.mp3</item>
+    </string-array>
+</resources>
